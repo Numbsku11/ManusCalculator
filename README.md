@@ -1,0 +1,2 @@
+# ManusCalculator
+A simple calculator 
